@@ -53,12 +53,12 @@ Estoy buscando mi **primer empleo como desarrollador web**, aunque también real
 
 ## 📘 Formación
 
-- 🎓 **Grado Superior en Animación 3D, Videojuegos y Entornos Interactivos**  
-  IES Ángel de Saavedra · Córdoba
-- 🎮 **Máster en Programación de Videojuegos**  
-  The Core School · Online
 - 💻 **Bootcamp de Desarrollo Frontend**  
   OpenBootcamp · Online
+- 🎮 **Máster en Programación de Videojuegos**  
+  The Core School · Online
+- 🎓 **Grado Superior en Animación 3D, Videojuegos y Entornos Interactivos**  
+  IES Ángel de Saavedra · Córdoba
 
 ---
 
