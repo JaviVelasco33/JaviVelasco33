@@ -19,11 +19,9 @@ Estoy buscando mi **primer empleo como desarrollador web**, aunque también real
 ### Frontend
 - HTML / CSS / SASS
 - JavaScript / TypeScript
-- Bootstrap *(si es necesario)*
+- React
+- Vite
 - Git & GitHub
-
-### Próximamente...
-- React.js *(en proceso de formación)*
 
 ### Videojuegos (experiencia previa)
 - C++
