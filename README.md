@@ -41,7 +41,7 @@ Estoy buscando mi **primer empleo como desarrollador web**, aunque también real
 - **Proyectos personales**
     - [TravelXplore](https://github.com/JaviVelasco33/TravelXplore): **Landing page** para agencia de viajes ficticia. Diseño visual y estructura completamente personalizada. Proyecto de práctica hecho usando HTML, CSS/SASS y JS.
     - [PartyPro Events](https://github.com/JaviVelasco33/PartyPro-Events): **Landing page** para agencia de eventos ficticia. Diseño visual atractivo con animaciones y funcionalidades. Proyecto de práctica hecho usando HTML, CSS/SASS y JS/TS.
-    - ⚒️ Próximamente: mi propia **web de portfolio** y otro proyecto personal centrados en HTML, CSS, JS/TS y React.
+    - ⚒️ Trabajando en mi propia **web de portfolio** y otro proyecto personal centrados en **HTML**, **SCSS**, **TS** y **React**.
 
 ### 🎮 Videojuegos (experiencia pasada)
 - Participación en proyectos como **Fragments of Child** (Creek Games) y **Ethernal** (Ethernal Studios).
@@ -63,7 +63,7 @@ Estoy buscando mi **primer empleo como desarrollador web**, aunque también real
 ## 🎯 Objetivos
 
 Me encanta aprender constantemente y superarme como desarrollador.  
-Estoy centrado en seguir practicando y formándome para **encontrar mi primera oportunidad profesional en desarrollo web**, mientras sigo creando proyectos por mi cuenta para crecer tanto técnica como creativamente.
+Estoy centrado en seguir practicando y crear mis propios proyectos para **crecer profesionalmente en desarrollo web** tanto técnica como creativamente.
 
 ---
 
