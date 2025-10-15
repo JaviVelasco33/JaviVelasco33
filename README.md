@@ -74,10 +74,4 @@ Estoy centrado en seguir practicando y crear mis propios proyectos para **crecer
 
 ---
 
-## GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JaviVelasco33&theme=gotham&border_radius=25&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
-
----
-
-> *Gracias por visitar mi perfil. Si te interesa colaborar, contratar o simplemente charlar sobre desarrollo, ¡estoy abierto a nuevas oportunidades!*
+> *Gracias por visitar mi perfil. Si te interesa colaborar o contratar, ¡estoy abierto a nuevas oportunidades!*
