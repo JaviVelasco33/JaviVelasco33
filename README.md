@@ -1,7 +1,7 @@
 
 # 👋 ¡Hola! Soy Javi Velasco
 
-🎮 GAMEPLAY PROGRAMMER.  
+🎮 Gameplay Programmer.  
 📍 Málaga, España | 🌐 Apasionado por la tecnología y la creatividad digital.
 
 ---
