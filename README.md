@@ -10,8 +10,6 @@
 
 Soy programador con 2 años de experiencia en desarrollo de videojuegos como gameplay programmer. Me apasiona la programación desde muy joven, y disfruto creando experiencias útiles, visuales y dinámicas para los usuarios.
 
-Estoy buscando mi **primer empleo como desarrollador web**, aunque también realizo trabajos **freelance** y desarrollo proyectos personales con el objetivo de mejorar cada día.
-
 ---
 
 ## 🚀 Tecnologías y herramientas
