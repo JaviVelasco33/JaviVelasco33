@@ -1,14 +1,14 @@
 
 # 👋 ¡Hola! Soy Javi Velasco
 
-🎮 De programador de videojuegos a desarrollador web en constante evolución.  
+🎮 GAMEPLAY PROGRAMMER.  
 📍 Málaga, España | 🌐 Apasionado por la tecnología y la creatividad digital.
 
 ---
 
 ## 💻 Sobre mí
 
-Soy programador con 2 años de experiencia en desarrollo de videojuegos, actualmente formándome y practicando para convertirme en desarrollador **frontend** profesional. Me apasiona la programación desde muy joven, y disfruto creando experiencias útiles, visuales y dinámicas para los usuarios.
+Soy programador con 2 años de experiencia en desarrollo de videojuegos como gameplay programmer. Me apasiona la programación desde muy joven, y disfruto creando experiencias útiles, visuales y dinámicas para los usuarios.
 
 Estoy buscando mi **primer empleo como desarrollador web**, aunque también realizo trabajos **freelance** y desarrollo proyectos personales con el objetivo de mejorar cada día.
 
@@ -16,16 +16,18 @@ Estoy buscando mi **primer empleo como desarrollador web**, aunque también real
 
 ## 🚀 Tecnologías y herramientas
 
+### Videojuegos
+- C++
+- Unreal Engine
+
 ### Frontend
 - HTML / CSS / SASS
 - JavaScript / TypeScript
 - React
 - Vite
-- Git & GitHub
 
-### Videojuegos (experiencia previa)
-- C++
-- Unreal Engine
+### Controlador de versiones
+- Git & GitHub
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaviVelasco33&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
@@ -43,10 +45,8 @@ Estoy buscando mi **primer empleo como desarrollador web**, aunque también real
     - [PartyPro Events](https://github.com/JaviVelasco33/PartyPro-Events): **Landing page** para agencia de eventos ficticia. Diseño visual atractivo con animaciones y funcionalidades. Proyecto de práctica hecho usando HTML, CSS/SASS y JS/TS.
     - ⚒️ Trabajando en mi propia **web de portfolio** y otro proyecto personal centrados en **HTML**, **SCSS**, **TS** y **React**.
 
-### 🎮 Videojuegos (experiencia pasada)
+### 🎮 Videojuegos
 - Participación en proyectos como **Fragments of Child** (Creek Games) y **Ethernal** (Ethernal Studios).
-> *(Aunque me formé y trabajé en videojuegos, ahora estoy full focus en el desarrollo web.)*
-
 ---
 
 ## 📘 Formación
