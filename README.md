@@ -84,7 +84,7 @@ https://github.com/JaviVelasco33/VirtualAwaken
 
 # 🧠 Ethernal *(Ethernal Studios)*
 
-Narrative-driven **horror experience** developed by **Ethernal Studios**.
+First person shooter **dungeon explorer** developed by **Ethernal Studios**.
 
 ### Steam Page
 
